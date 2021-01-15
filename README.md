@@ -20,7 +20,7 @@ Um projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) vers
 
 # DEMO
 
-[DEMO](https://kevinmartins367.github.io/app-escribo-i) 
+[DEMO](https://kevinmartins367.github.io/app-escribo-inovacao/) 
 
 ## Build
 
